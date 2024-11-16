@@ -1,0 +1,1 @@
+#just a regular doc for trying stuff I think? Need an index.Rmd for having it show up on a website I think
